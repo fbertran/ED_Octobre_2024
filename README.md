@@ -9,8 +9,8 @@ Myriam Maumy et Frédéric Bertrand
 
 À la fin de ce cours, vous
 
-- saurez comment mettre en uvre des tests non-paramétriques avec R
-- saurez comment mettre en uvre des tests de permutation avec R
+- saurez comment mettre en oeuvre des tests non-paramétriques avec R
+- saurez comment mettre en oeuvre des tests de permutation avec R
 
 ------------------------------------------------------------------------
 
