@@ -47,7 +47,13 @@ knitr::opts_chunk$set(
 - Introduction au bootstrap. Test de permutation d'un coefficient de corrélation. [TD_bootstrap.html](Supports/TD_Bootstrap/TD_bootstrap.html)
 
 
+- Applications interactives pour explorer les notions
 
+    * Pour les [tests non-paramétriques](https://fbertran.shinyapps.io/nptests/)
+
+    * Pour le [bootstrap](https://fbertran.shinyapps.io/shiny-bootstrap/)
+
+    * Pour le [coefficient de corrélation bootstrap et permutation](https://fbertrand.shinyapps.io/Correlation_bootstrap_and_permutations/)
 
 
 
